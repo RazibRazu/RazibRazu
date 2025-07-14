@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Razib's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Razib's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-razibrazu&show_icons=true&theme=tokyonight)
 
 ---
 
